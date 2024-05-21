@@ -1,10 +1,10 @@
 ### Hi there 👋, Himanshu Singh
 #### Recent Software Engineering Grad @ Carleton University
-![Recent Software Engineering Grad @ Carleton University](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Recent Software Engineering Grad @ Carleton University](http://www.carleton.ca/cu/graphics/Tcw6.gif)
 
 I'm Himanshu, a recent software engineering graduate from Carleton University in Canada. I have a passion for solving challenging problems on LeetCode and am currently exploring new frameworks to broaden my technical skills. Feel free to connect with me on LinkedIn.
 
-NODE JS | REACT | JS | PYTHON | JAVA | .NET | C#
+###### NODE JS | REACT | JS | PYTHON | JAVA | .NET | C#
 
 - 🔭 I’m currently working on a stock market discord bot! 
 - 👯 I’m looking to collaborate on Open Source Projects 
