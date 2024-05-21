@@ -1,4 +1,4 @@
-### Hi there 👋, Himanshu Singh
+### Hi there 👋, I'm Himanshu Singh
 #### Recent Software Engineering Grad @ Carleton University
 ![Recent Software Engineering Grad @ Carleton University](http://www.carleton.ca/cu/graphics/Tcw6.gif)
 
