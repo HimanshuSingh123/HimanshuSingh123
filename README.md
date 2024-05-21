@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Himanshu Singh
+#### Recent Software Engineering Grad @ Carleton University
+![Recent Software Engineering Grad @ Carleton University](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Himanshu, a recent software engineering graduate from Carleton University in Canada. I have a passion for solving challenging problems on LeetCode and am currently exploring new frameworks to broaden my technical skills. Feel free to connect with me on LinkedIn to learn more about my projects and interests: www.linkedin.com/in/himanshu-c-singh.
+I'm Himanshu, a recent software engineering graduate from Carleton University in Canada. I have a passion for solving challenging problems on LeetCode and am currently exploring new frameworks to broaden my technical skills. Feel free to connect with me on LinkedIn.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuSingh123)](https://github.com/anuraghazra/github-readme-stats)
+NODE JS | REACT | JS | PYTHON | JAVA | .NET | C#
+
+- 🔭 I’m currently working on a stock market discord bot! 
+- 👯 I’m looking to collaborate on Open Source Projects 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HimanshuSingh123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/himanshu-c-singh/)  
+
