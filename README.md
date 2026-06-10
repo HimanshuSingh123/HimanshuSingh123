@@ -6,9 +6,5 @@ I'm Himanshu, a recent software engineering graduate from Carleton University in
 
 ###### C# .NET | REACT | JAVASCRIPT | PYTHON | JAVA
 
-- 🔭 I’m currently working on a stock market discord bot! 
-- 👯 I’m looking to collaborate on Open Source Projects 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HimanshuSingh123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/himanshu-c-singh/)  
 
